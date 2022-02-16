@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: #E7B0B2;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #fff;
+  width: 500px;
+  height: 300px;
+  padding: 6%;
+  border-radius: 25px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);
+}
+.card h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+  color: #F64747;
+}
+.card #newQuote {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 23px;
+  height: 70px;
+}
+.card button {
+  cursor: pointer;
+  margin-top: 30px;
+  font-size: 17px;
+  font-family: "Segoe UI", sans-serif;
+  color: #F64747;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 1px solid #F64747;
+  background-color: transparent;
+  border-radius: 10px;
+  padding: 2%;
+  font-weight: 700;
+}
+.card button:hover {
+  background: #F64747;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #F64747;
+}

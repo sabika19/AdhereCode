@@ -1,0 +1,8 @@
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\bin\MyWebsite.dll.config
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\bin\MyWebsite.dll
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\bin\MyWebsite.pdb
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\obj\Release\MyWebsite.csprojResolveAssemblyReference.cache
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\obj\Release\MyWebsite.dll
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\obj\Release\MyWebsite.pdb
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\bin\MySql.Data.DLL
+D:\NC-FINAL\28june\NC\MyWebsite\MyWebsite\bin\MSCaptcha.dll
